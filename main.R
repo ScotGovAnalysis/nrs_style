@@ -53,6 +53,10 @@ col_nrs_blue <- "#00587C"
 # TURN OFF SCIENTIFIC NOTATION --------------------------------------------
 options(scipen = 999)
 
+# GENERIC -----------------------------------------------------------------
+linetype_annotation_small <- "12"
+linetype_annotation_large <- "dashed"
+
 # RGAR --------------------------------------------------------------------
 rgar_axis_text_size_large <- 17.7
 rgar_axis_text_size_small <- 11.25
@@ -69,9 +73,6 @@ rgar_geom_text_size_large <- 7
 rgar_geom_col_size <- 1.5
 rgar_geom_col_width_large <- 0.7
 rgar_geom_col_width_small <- 0.5
-
-rgar_linetype_annotation_small <- "12"
-rgar_linetype_annotation_large <- "dashed"
 
 # INFOGRAPHIC -------------------------------------------------------------
 info_text_size <- 3.5
