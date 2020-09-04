@@ -77,10 +77,10 @@ rgar_linetype_annotation_large <- "dashed"
 info_text_size <- 3.5
 
 info_point_shape <- 21
-info_point_size <- 1.7
+info_point_size <- 2
 info_point_stroke <- 0.5
 
-info_line_size <- 2
+info_line_size <- 1.4
 
 info_axis_text_size_large <- 13
 info_axis_text_size_small <- 10
