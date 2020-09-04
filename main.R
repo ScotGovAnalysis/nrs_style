@@ -44,8 +44,8 @@ col_migration_dark <- "#731F71"
 col_migration_light <- "#C793C6"
 
 col_population <- "#2DA197"
-col_population_dark <- "#496218"
-col_population_light <- "#ADBD8E"
+col_population_dark <- "#248078"
+col_population_light <- "#96D0CB"
 
 col_nrs_purple <- "#84329B"
 col_nrs_blue <- "#00587C"
